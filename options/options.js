@@ -38,8 +38,8 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "App22",
-    "copy": "Rtpudd",
-    "styles": styless
+    "title": "App33",
+    "copy": "Rt33",
+    "styles": styles
   }
 };
