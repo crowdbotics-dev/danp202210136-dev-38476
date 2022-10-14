@@ -38,8 +38,8 @@ export const globalOptions = {
 };
 export const modulesOptions = {
   "@modules/app-menu": {
-    "title": "Aprer",
-    "copy": "Rt5rtf",
+    "title": "Appuro",
+    "copy": "Rtpuro",
     "styles": styles
   }
 };
