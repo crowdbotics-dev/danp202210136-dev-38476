@@ -40,6 +40,6 @@ export const modulesOptions = {
   "@modules/app-menu": {
     "title": "App22",
     "copy": "Rtpudd",
-    "styles": styles
+    "styles": styless
   }
 };
